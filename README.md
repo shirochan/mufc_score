@@ -13,10 +13,13 @@
 
 ## 技術スタック
 
-- **Next.js 15** - Reactフレームワーク
+- **Next.js 16** - Reactフレームワーク
+- **React 19** - UIライブラリ
 - **TypeScript** - 型安全性
 - **Tailwind CSS** - スタイリング
 - **SWR** - データフェッチングとキャッシング
+- **date-fns** - 日時処理
+- **Lucide React** - アイコンライブラリ
 - **Football-Data API** - サッカーデータの取得
 
 ## セットアップ
